@@ -1,0 +1,12 @@
+{
+  "name": "koa-session-memory",
+  "version": "1.0.0",
+  "description": "koa-session memory store",
+  "main": "index.js",
+  "repository": "https://github.com/kalvinarts/koa-session-memory",
+  "author": "kalvin <kalvin@unseen.is>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0"
+  }
+}
