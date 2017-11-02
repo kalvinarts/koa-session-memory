@@ -32,5 +32,5 @@ app.use(session({
   store,
   key: 'koa:sess',
   maxAge: 86400000,
-}));
+}), app);
 ```
