@@ -34,3 +34,13 @@ app.use(session({
   maxAge: 86400000,
 }), app);
 ```
+
+### Coffee contributions accepted ;)
+
+As you may know developers fuel is coffee.
+
+Now that Github enabled **BAT Rewards**, if you are using [Brave Browser](https://brave.com/kal004) and feel that I deserve some coffee you can send me a tip or set a monthly contribution.
+
+If you are still not using [Brave Browser](https://brave.com/kal004), you can download it using [this link]() and I will get some BAT to buy more coffee ;)
+
+[Brave Browser](https://brave.com/kal004) is a superfast browser based in Chrome with integrated ad blocking and anti-tracking features. [Give it a try](https://brave.com/kal004)!
